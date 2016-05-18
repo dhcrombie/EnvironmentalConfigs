@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>EnvironmentalConfigs</id>
+    <version>1.0.0</version>
+    <authors>Daniel Houston</authors>
+    <owners>Daniel Houston</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Environmental Configuration Manager</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Environmental Configuration</tags>
+  </metadata>
+</package>

@@ -1,0 +1,6 @@
+namespace WebConfigTest.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}

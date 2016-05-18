@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<configuration xmlns:xdt="http://schemas.microsoft.com/XML-Document-Transform">
+  <configSections>
+    <section name="environmentalConfigs" type="EnvironmentalConfigs.EnvironmentalConfigParser.EnvironmentalConfigsSection" xdt:Transform="Insert" />
+  </configSections>
+  <environmentalConfigs xdt:Transform="InsertBefore(/configuration/appSettings)">
+    <environments>
+      <environment name="all">
+      </environment>
+      <environment name="dev">
+      </environment>
+      <environment name="test">
+      </environment>
+      <environment name="prod">
+      </environment>
+    </environments>
+  </environmentalConfigs>
+</configuration>
